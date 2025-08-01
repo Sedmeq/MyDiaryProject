@@ -1,4 +1,4 @@
-# MySecondProject - Personal Diary
+# MyDiaryProject - Personal Diary
 
 A modern web application built with **ASP.NET Core MVC** and **Entity Framework Core** for managing your personal diary entries with ease.
 
